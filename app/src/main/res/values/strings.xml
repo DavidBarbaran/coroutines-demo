@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Coroutines Demo</string>
+
+    <string name="connection_message">No ahi conexión a internet. Asegúrese de que la conexión wi-fi o los datos móviles estén encendidos, e intente de nuevo.</string>
+    <string name="time_out_message">La conexión wi-fi es demasiado lenta o los datos moviles se terminarón, revise que la conexión que utiliza le proporcione internet</string>
+    <string name="connection_lost_message">La conexión a internet se ha perdido</string>
+    <string name="default_error_message">Ocurrió un error, por favor intentelo nuevamente</string>
+    <string name="server_error_message">Ocurrió un error con el servidor, por favor intentelo nuevamente mas tarde</string>
+
 </resources>
