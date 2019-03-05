@@ -1,7 +1,8 @@
-package com.david.barbaran.coroutinesdemo
+package com.david.barbaran.coroutinesdemo.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.david.barbaran.coroutinesdemo.R
 
 class MainActivity : AppCompatActivity() {
 
